@@ -2,7 +2,7 @@
 
 ## Problem 
 
-[embed]https://github.com/Indushekhar/Waypoint-Generator-Otto-Challenge/blob/master/OTTOChallenge-C%20(3).pdf[/embed]
+![Test Image 4] (https://github.com/Indushekhar/Waypoint-Generator-Otto-Challenge/blob/master/OTTOChallenge-C%20(3).pdf)
 
 
 ## Run Instructions
